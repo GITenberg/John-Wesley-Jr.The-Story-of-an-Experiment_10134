@@ -1,0 +1,28 @@
+_repo: John-Wesley-Jr.The-Story-of-an-Experiment_10134
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brummitt, Dan B. (Dan Brearley)
+    alias: Brummit, Dan B. (Dan Brearley)
+    birthdate: 1867
+    deathdate: 1939
+    gutenberg_agent_id: '3323'
+    url: http://www.gutenberg.org/2009/agents/3323
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Methodists -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Christian fiction'
+- GITenberg
+title: 'John Wesley, Jr.
+
+  The Story of an Experiment'
+url: http://www.gutenberg.org/ebooks/10134
